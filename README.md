@@ -5,4 +5,5 @@ I implement a collectoin of machine learning algorithms from scratch. Use only P
 - K-Nearest Neighbors (Euclidean/Manhattan/Chebyshev distance, Cosine similarity etc.)
 - Naive Bayes
 - K-means  (Euclidean/Manhattan/Chebyshev distance)
+
 This list is to be continued.
